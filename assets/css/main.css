@@ -430,7 +430,8 @@ a:hover {
   transition: 0.25s ease;
 
   color: #fff;
-  background: #000;
+  border: none;
+  background: rgb(177, 176, 176);
 }
 
 #work .showcase .item:hover .info {
