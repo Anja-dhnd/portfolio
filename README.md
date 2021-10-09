@@ -7,7 +7,7 @@ Temporary portfolio to show some of my skills and projects with the hope it will
 So, brace yourselves, this is not even its final form.  
 https://anja-dhnd.github.io/portfolio/
 
-Icons from [Flaticon](https://www.flaticon.com/") and [fontawesome](https://fontawesome.com).
+Icons from [Flaticon](https://www.flaticon.com/) and [fontawesome](https://fontawesome.com).
 
 
 (ps. i look mean but I promise I'm sweet.)
